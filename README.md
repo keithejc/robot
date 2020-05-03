@@ -18,3 +18,6 @@ npm install --save-dev webpack webpack-cli
 npm install --save socketio
 npm install --save node-blockly
 npm install --save onoff
+npm install --save socket.io-client
+
+  
